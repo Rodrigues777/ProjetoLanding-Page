@@ -1,4 +1,4 @@
-# ProjetoLanding-Page
+# ProjetoLanding-Page Escola DNC (Projeto 01-03 Semanas)
 Este é o projeto de desenvolvimento do modulo base do curso de tecnologia da escola DNC
 
 site do Projeto: https://projetotestdnc.netlify.app/
